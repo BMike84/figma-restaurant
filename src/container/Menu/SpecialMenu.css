@@ -54,7 +54,7 @@
   margin-top: 15px;
 }
 
-@media screen and (max-width: 2000px) {xw
+@media screen and (min-width: 2000px) {xw
   .app__specialMenu-menu_img {
     width: 750px;
   }  
